@@ -15,3 +15,9 @@ for (let i = 0; i < str.length; i++) {
 console.log(obj);
 
 
+//------------------****-------------------
+// for (let i = 0; i < str.length; i++){
+// let key = str[i];
+// obj[key]==undefined?obj[key]=1:obj[key]++;
+// }
+// console.log(obj);
